@@ -1,0 +1,30 @@
+img {
+  width: 90px;
+  height: 90px;
+  float: left;
+  align-content: center;
+  }
+  #idCard {
+  border: 5px solid black;
+  height: 14em;
+  width: 25em;
+  background-color: pink;
+  font-family: Georgia;
+  margin-top: 60px;
+  margin-bottom: 60px;
+  align-content: center;
+  padding-right: 2.5cm;
+
+  }
+  body {
+  background-color: lightblue;
+  width: 500px;
+  margin: 0 auto;
+  text-align: center;
+  }
+  form {
+  text-align: center;
+  }
+  h1 {
+  text-align: center;
+  }
